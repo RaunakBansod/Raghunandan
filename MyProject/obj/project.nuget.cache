@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2cJUlSD5CeA=",
+  "dgSpecHash": "rcjxX7oNh/Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dell\\Downloads\\CPP\\C#\\MyProject\\MyProject.csproj",
+  "projectFilePath": "C:\\Users\\dell\\Downloads\\CPP\\C#\\myproject\\MyProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\dotnetenv\\3.1.1\\dotnetenv.3.1.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.5\\microsoft.extensions.configuration.10.0.5.nupkg.sha512",
@@ -19,6 +19,10 @@
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.5\\microsoft.extensions.primitives.10.0.5.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\socketio.core\\3.1.1\\socketio.core.3.1.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\socketio.serializer.core\\3.1.1\\socketio.serializer.core.3.1.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\socketio.serializer.systemtextjson\\3.1.1\\socketio.serializer.systemtextjson.3.1.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\socketioclient\\3.1.1\\socketioclient.3.1.1.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\sprache\\2.3.1\\sprache.2.3.1.nupkg.sha512"
   ],
   "logs": []

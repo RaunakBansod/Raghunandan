@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\Downloads\\CPP\\C#\\MyProject\\MyProject.csproj": {}
+    "C:\\Users\\dell\\Downloads\\CPP\\C#\\myproject\\MyProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\Downloads\\CPP\\C#\\MyProject\\MyProject.csproj": {
+    "C:\\Users\\dell\\Downloads\\CPP\\C#\\myproject\\MyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Downloads\\CPP\\C#\\MyProject\\MyProject.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Downloads\\CPP\\C#\\myproject\\MyProject.csproj",
         "projectName": "MyProject",
-        "projectPath": "C:\\Users\\dell\\Downloads\\CPP\\C#\\MyProject\\MyProject.csproj",
+        "projectPath": "C:\\Users\\dell\\Downloads\\CPP\\C#\\myproject\\MyProject.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Downloads\\CPP\\C#\\MyProject\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Downloads\\CPP\\C#\\myproject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -55,6 +55,10 @@
             "Microsoft.Extensions.Logging.Console": {
               "target": "Package",
               "version": "[10.0.5, )"
+            },
+            "SocketIOClient": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
