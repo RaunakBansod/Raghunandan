@@ -7,6 +7,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
+        
         string API_key = Environment.GetEnvironmentVariable("API_KEY");
         string API_secret = Environment.GetEnvironmentVariable("API_SECRET");
         string API_source = Environment.GetEnvironmentVariable("API_SOURCE");
